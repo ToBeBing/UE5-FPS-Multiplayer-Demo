@@ -31,16 +31,81 @@
 
 ## 📸 游戏截图
 
-> ![战斗画面](截图/怪物攻击.png)
-> ![AI敌人](截图/僵尸.png)
-> ![热身计时](截图/开始热身计时.png)
-> ![待机状态](截图/待机状态.png)
-> ![计时结束](截图/计时结束.png)
-> ![等待玩家确认](截图/服务器等待玩家重连.png)
-> ![房主开始游戏](截图/房主开始游戏.png)
-> ![持枪](截图/持枪.png)
-> ![第三人称持枪](截图/第三人称持枪.png)
-> ![死亡状态](截图/死亡状态.png)
+<h3>🎮 游戏流程与战斗演示</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="截图/怪物攻击.png" width="300" />
+      <br />
+      <b>怪物攻击玩家</b>
+    </td>
+    <td align="center">
+      <img src="截图/僵尸.png" width="300" />
+      <br />
+      <b>AI 敌人模型</b>
+    </td>
+    <td align="center">
+      <img src="截图/弹花贴图.png" width="300" />
+      <br />
+      <b>射击弹孔/弹花效果</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="截图/持枪.png" width="300" />
+      <br />
+      <b>第一人称持枪视角</b>
+    </td>
+    <td align="center">
+      <img src="截图/第三人称持枪.png" width="300" />
+      <br />
+      <b>第三人称动作同步</b>
+    </td>
+    <td align="center">
+      <img src="截图/死亡状态.png" width="300" />
+      <br />
+      <b>死亡状态</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="截图/开始热身计时.png" width="300" />
+      <br />
+      <b>游戏热身倒计时</b>
+    </td>
+    <td align="center">
+      <img src="截图/待机状态.png" width="300" />
+      <br />
+      <b>大厅待机状态</b>
+    </td>
+    <td align="center">
+      <img src="截图/计时结束.png" width="300" />
+      <br />
+      <b>倒计时结束/游戏开始</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="截图/服务器等待玩家重连.png" width="300" />
+      <br />
+      <b>服务器等待玩家连接</b>
+    </td>
+    <td align="center">
+      <img src="截图/房主开始游戏.png" width="300" />
+      <br />
+      <b>房主启动游戏</b>
+    </td>
+    <td align="center">
+      <img src="截图/布娃娃死亡效果.png" width="300" />
+      <br />
+      <b>布娃娃死亡</b>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 如何运行
 
