@@ -79,7 +79,7 @@
     <td align="center">
       <img src="截图/待机状态.png" width="300" />
       <br />
-      <b>大厅待机状态</b>
+      <b>空手状态</b>
     </td>
     <td align="center">
       <img src="截图/计时结束.png" width="300" />
@@ -106,6 +106,9 @@
     </td>
   </tr>
 </table>
+
+## 示例视频
+https://github.com/user-attachments/assets/eb02fac8-1fca-4132-a438-e888fd8b1ed9
 
 ## 🚀 如何运行
 
