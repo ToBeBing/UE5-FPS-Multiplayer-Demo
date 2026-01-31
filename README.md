@@ -107,7 +107,7 @@
   </tr>
 </table>
 
-## 示例视频
+## 示例视频（录制设备问题，音效有问题，请注意降低音量）
 https://github.com/user-attachments/assets/eb02fac8-1fca-4132-a438-e888fd8b1ed9
 
 ## 🚀 如何运行
